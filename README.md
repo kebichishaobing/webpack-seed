@@ -1,5 +1,5 @@
 # webpack-seed
-Can set up a server using webapck to writing JS.
+Can quickly set up a server using webapck to writing JS.
 
 A webpack seed project support es6
 
