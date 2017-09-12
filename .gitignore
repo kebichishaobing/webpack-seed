@@ -1,0 +1,8 @@
+node_modules/
+.shared/
+.tmp/
+npm-debug.log
+prev_commit_id.log
+*.orig
+*.properties
+build/
